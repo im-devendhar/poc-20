@@ -5,4 +5,4 @@ namespace: dev
 
 replicas:
 - name: nginx-app
-  count: 2
+  count: 3
