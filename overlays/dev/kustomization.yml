@@ -1,0 +1,8 @@
+resources:
+- ../../base
+
+namespace: dev
+
+replicas:
+- name: nginx-app
+  count: 2
